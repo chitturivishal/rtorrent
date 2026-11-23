@@ -1,0 +1,4 @@
+__pycache__/
+*.torrent
+*.bin
+*.iso
